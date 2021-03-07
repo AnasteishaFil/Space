@@ -7,15 +7,15 @@ body {
 	display: block;
 }
 .universe {
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	background-color: #051741;
 	perspective-origin: 50% 48%;
 	perspective: 650px;
 }
 .solar_system {
-	width: 100vw;
-	height: 100vh;
+	width: 100%;
+	height: 100%;
 	transform-style: preserve-3d;
 }
 .solar_system .sun {
