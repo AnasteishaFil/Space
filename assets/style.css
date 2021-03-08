@@ -4,8 +4,7 @@ body {
 	border: 0;
 	font-size: 100%;
 	font: inherit;
-	display: flex;
-	justify-content: space-around;
+	display: block;
 }
 .universe {
 	width: 100vw;
